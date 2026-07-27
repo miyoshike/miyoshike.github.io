@@ -35,6 +35,6 @@ Kento Miyoshi（以下、「当方」といいます）は、iOSアプリ「銘�
 本ポリシーに関するお問い合わせは、下記の窓口までお願いいたします。
 
 - 開発者名：Kento Miyoshi
-- 連絡先メールアドレス：[your-email@example.com]
+- 連絡先メールアドレス：support.miyoshike@gmail.com
 
 以上
